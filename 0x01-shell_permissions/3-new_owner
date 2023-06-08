@@ -1,3 +1,2 @@
-#!/bin/bash
-wc -1 chown betty hello
+#!/bin/bash chown betty hello
 
